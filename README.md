@@ -5,6 +5,7 @@
 Assessment for `TODO: name` (`TODO: email`)
 
 **Please make sure you read ALL instructions and complete ALL parts asked of you.**
+
 ---
 
 ## Overview
@@ -13,6 +14,7 @@ Thank you for your interest in the Mind in Society Lab! We are currently recruit
 This assessment reflects some of the foundaitonal programming tasks common across projects in our lab. The goal of the assessment is **NOT to examnine your mastery of a certain programming language**, but to a) assess your understanding of **programming structure** regardless of language, and b) allow you to demonstrate your ability to **look up + adapt documentations and relevant resources** to complete programming tasks. 
 
 We are not looking for fancy/elaborate submissions (in fact, this is design to be simple), so please don't spend too much time on the assessment. It should take you about an hour to complete, if not less. Each section will also provide you with some directions or documentations to look towards. If you are uncertain of how to approach certain task, try you best by looking up references and examples to adpot. When you are absolutely unable to complete it, please elaborate on what you've tried in the Google Form submission at the end.
+
 ---
 
 ## Instruction
@@ -34,8 +36,9 @@ Complete the following to set up your own version of this repository where you c
 1. [In general] **Commit your changes often.** We expect to see a minimum of 3 commits, at least 1 commit per section of this assessment. 
 
 Here are some resources to help you with this section:
-[Common Git Commands](https://education.github.com/git-cheat-sheet-education.pdf)
-[Woring with `.gitignore`](https://www.w3schools.com/git/git_ignore.asp)
+- [Common Git Commands](https://education.github.com/git-cheat-sheet-education.pdf)
+- [Woring with `.gitignore`](https://www.w3schools.com/git/git_ignore.asp)
+
 ---
 
 ## Submission
