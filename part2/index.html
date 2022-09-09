@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>A Test Survey</title>
+    <meta charset="UTF-8">
+
+    <!-- Stylesheets -->
+    <link href="https://unpkg.com/jspsych@7.2.3/css/jspsych.css" rel="stylesheet" type="text/css" />
+
+    <!-- Scripts -->
+    <script src="https://unpkg.com/jspsych@7.2.3"></script>
+    <script src="assets/css/style.css"></script>
+
+    <!-- TODO: Part 4 - Add remote plugin scipts for ALL objects in the timeline -->
+
+
+</head>
+
+<body></body>
+
+<script>
+    ////////* STUDY SETUP */////////
+    // Initialize jsPsych
+    var jsPsych = initJsPsych({
+        use_webaudio: false,
+        on_finish: function () {
+            jsPsych.data.get().localSave('csv', 'test_data.csv');
+        }
+    });
+
+    // TODO: Task 1 - Add your name as a data field across all trials 
+    jsPsych.data.addProperties();
+
+    // timeline 
+    var timeline = [];
+
+    // preload
+    var preload = {
+        type: jsPsychPreload,
+        auto_preload: true,
+        message: `Please wait while the experiment loads. This should not take longer than a minute.`
+    };
+
+    ////////* EXPERIMENT */////////
+    // TODO: Task 2 - Create a new trial
+
+
+    ////////* TIMELINE */////////
+    // TODO: Task 3 - Add new trial to timeline after preload
+    timeline.push(preload);
+
+
+    // start the experiment
+    jsPsych.run(timeline);
+
+</script>
