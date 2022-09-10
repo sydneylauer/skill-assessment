@@ -17,6 +17,15 @@ We are not looking for fancy/elaborate submissions (in fact, this is design to b
 
 ---
 
+## Packages/Software Needed
+You will need the following installed:
+- Git + Git Bash (Windows only, Mac should have built-in git inside of terminal)
+- Python
+- Jupyter Notebook
+- `matplotlib` package
+
+---
+
 ## Instruction
 There are 3 parts to this skill assessment:
 1. Working with Git & Version Control
