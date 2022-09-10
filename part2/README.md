@@ -7,6 +7,7 @@ Assessment for `TODO: name` (`TODO: email`)
 **Please make sure you read ALL instructions and complete ALL parts asked of you.**
 
 ---
+
 ## Instruction
 ### Part 2: Programming/Designing a Survey Block
 
@@ -34,5 +35,6 @@ You will also need to load the plugin's javascript file for a plugin to work. Do
 Open the modified `index.html` file to run the newly completed task. Select the middle option on the likert scale, then advance forward. It should prompt you to download a CSV file for the recorded data. Download the file and place it into the same directory as the `index.html` file.
 
 ---
+
 ### Make sure to commit your changes often! 
 To submit, you should have a modified `index.html` file and a new CSV file added in this directory. 

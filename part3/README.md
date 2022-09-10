@@ -7,6 +7,7 @@ Assessment for `TODO: name` (`TODO: email`)
 **Please make sure you read ALL instructions and complete ALL parts asked of you.**
 
 ---
+
 ## Instruction
 ### Part 3: Working with the Google Street View API
 We also utilize the Google Street View API very frequently for our projects. To complete this part, review the [documentations for the Static SV API](https://developers.google.com/maps/documentation/streetview/overview).
@@ -34,6 +35,7 @@ Test your `get_SV_images` function by using the following coordinates:
 - Location 2: `(37.871907, -122.258287)` - you should see a location on the UC Berkeley campus.
 - Location 3: `(42.276582, -83.735750)` - you should get a location by Weiser Hall on the UM campus.
 
---
+---
+
 ### Make sure to commit your changes often! 
 To submit, you should have a completed `get_SV_images` function, along with the output images for the 3 locations inside of your jupyter notebook. 
