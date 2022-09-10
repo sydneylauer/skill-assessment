@@ -55,7 +55,7 @@ Once you've compelted all parts of this assessment, check the following for your
 - Make sure repo is **private**.
 - Add the user `um-misl` as a collaborator to your forked repo.
 
-Submit the skill assessment using this [Google Form](). It will ask you to submit the URL to your repo. If you are asked to answer any specific questions in your invite email, the Google Form will also have a space for you to add your response. 
+Submit the skill assessment using this [Google Form](https://forms.gle/ozN2gEhfNZnfgCCS7). It will ask you to submit the URL to your repo. If you are asked to answer any specific questions in your invite email, the Google Form will also have a space for you to add your response. 
 
 **NOTE:** Do not create a pull request from your forked repo.
 
