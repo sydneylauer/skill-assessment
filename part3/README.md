@@ -11,7 +11,7 @@ Assessment for `TODO: name` (`TODO: email`)
 ### Part 3: Working with the Google Street View API
 We also utilize the Google Street View API very frequently for our projects. To complete this part, review the [documentations for the Static SV API](https://developers.google.com/maps/documentation/streetview/overview).
 
-You will also need the `keys.json` file you've loaded in part 1.
+You will be working in the `sv_image_pull_single.ipynb` jupyter notebook. You will also need the `keys.json` file you've loaded in part 1.
 
 #### Task 1: Load the API key file
 Load the `keys.json` file into the jupyter notebook, and assigned it to the `keys` variable. Then, access the actual key inside and assigned it to the `API_Key` variable.
